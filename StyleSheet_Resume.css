@@ -8,32 +8,20 @@ h1 {
 	margin-bottom: 10px
 }
 
-#address { 
-	text-align: center;
-	margin-bottom: 30px;
+body {
+	background-color: #dfe3ee;
 }
 
-.jobs {
-	margin-top: 0px;
-	margin-bottom: 0px;
-}
-
-.header {
+h2,h3 {
 	margin-bottom: 5px;
 	margin-top: 5px;
 	border-bottom: 1px solid black;
 }
-#degree {
-	margin-bottom: 30px;
-}
-#centerpage {
-	width: 960px;
-	margin-left: auto;
-	margin-right: auto;
-}
+
 ul {
 	margin-top: 5px;
-	margin-bottom: 30px;
+	margin-bottom: 10px;
+	line-height: 25px;
 }
 
 img {
@@ -43,10 +31,20 @@ img {
 	float: right; 
 }
 
-body {
-	background-color: #dfe3ee;
+#content_location {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
+#address { 
+	text-align: center;
+	margin-bottom: 33px;
+}
+
+#degree {
+	margin-bottom: 20px;
+}
 .year {
 	float: right;
 }
